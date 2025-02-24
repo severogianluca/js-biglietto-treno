@@ -1,6 +1,6 @@
-# Train ticket
+# Train ticket 👮🏼🎟
 
-## Descrizione
+## Descrizione 🚊
 
 Questo programma calcola il prezzo totale di un viaggio in base ai chilometri percorsi e all'età del passeggero, applicando eventuali sconti.
 
