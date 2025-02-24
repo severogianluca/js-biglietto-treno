@@ -21,5 +21,4 @@ regole per il prezzo:
 - il prezzo finale deve essere visualizzato con 2 numeri decimali 
 
 visualizzazione:
-- il risultato deve essere visualizzato tramite allert
-- risultato visibule anche nella console 
+- risultato visibile anche nella console 
