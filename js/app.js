@@ -24,4 +24,6 @@ if(eta < 18){
 }
 
 prezzo = prezzo - sconto;
+prezzo = prezzo.toFixed(2);
 console.log(prezzo);
+console.log(`il prezzo del biglietto è di: ${prezzo} €`)
